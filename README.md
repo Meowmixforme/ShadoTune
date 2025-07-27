@@ -17,10 +17,10 @@ Built with PySide6 and sounddevice, it is ideal for practice, instrument setup, 
 
  ## Libraries Used
 
-- **Python 3.8+** – main programming language
-- **PySide6 (Qt for Python)** – graphical user interface
-- **sounddevice** – audio playback for reference notes
-- **numpy** – efficient numerical operations for sound generation and animation
+- **Python 3.8+** - main programming language
+- **PySide6 (Qt for Python)** - graphical user interface
+- **sounddevice** - audio playback for reference notes
+- **numpy** - efficient numerical operations for sound generation and animation
 
 ## Installation
 
